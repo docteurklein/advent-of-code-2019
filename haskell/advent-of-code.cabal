@@ -20,6 +20,6 @@ executable advent-of-code
   default-extensions: OverloadedStrings
   other-modules: Day1
   -- other-extensions: OverloadedStrings
-  build-depends:       base >=4.12 && <4.13, wreq, lens, bytestring, utf8-string, split, text
+  build-depends:       base >=4.12 && <4.13, wreq, lens, bytestring, utf8-string, split, text, ghc
   -- hs-source-dirs:
   default-language:    Haskell2010
